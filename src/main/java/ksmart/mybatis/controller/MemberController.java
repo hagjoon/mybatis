@@ -206,5 +206,5 @@ public class MemberController {
 		
 		return "member/memberList";
 	}
-
+// commit test
 }
