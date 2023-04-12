@@ -206,10 +206,5 @@ public class MemberController {
 		
 		return "member/memberList";
 	}
-	
-	// 수정
-	
-	
-	
-	
+
 }
